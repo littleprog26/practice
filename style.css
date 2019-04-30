@@ -1,0 +1,23 @@
+#box1{
+	border: 2px solid rgba(119, 74, 142);
+	padding-bottom: 30px;
+	margin-top: 50px;
+	font-family: 'Pacifico', cursive;
+}
+#box2{
+	border: 2px solid black;
+	font-family: 'Merriweather', serif;
+}
+#box3{
+	border: 2px solid black;
+	font-family: 'Indie Flower', cursive;
+}
+p{
+		font-family: 'Indie Flower', cursive;
+}
+img{
+	padding-top: 10px;
+}
+ul{
+	font-family: 'Abril Fatface', cursive;
+}
